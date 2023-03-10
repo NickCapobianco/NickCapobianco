@@ -3,7 +3,19 @@
 ### 初めまして (nice to meet you), me llamo Nick Capobianco✌️
 [![Linkedin Badge](https://img.shields.io/badge/-nickcapobianco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickacapobianco/)](https://www.linkedin.com/in/nickacapobianco/)
 
-📂 Check out my Portfolio: [Portfolio](https://nickcapobianco.github.io/)
+💼 Check out my Portfolio Website: [Portfolio](https://nickcapobianco.github.io/)
+
+### Things I Enjoy:
+🤖 Robots
+<br>
+🌲 Nature
+<br>
+🕹️🎮 Video Games
+<br>
+🎸 Music
+<br>
+⛩️ Anime
+<br>
 
 ### Languages and Software: 
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -15,12 +27,6 @@
 
 <br>
 <br>
-
-### Passions:
-<img src="https://64.media.tumblr.com/a69111f19428cc16d7de25b6f3013300/tumblr_neuhpt0Cgq1qc31upo1_400.gifv" width="30"> Robots
-<br>
-🌲 Nature
-
 
 ### ::bar_chart:: Github Stats
 <p>
