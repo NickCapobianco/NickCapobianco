@@ -2,7 +2,6 @@
 
 ### 初めまして (nice to meet you), me llamo Nick Capobianco✌️
 [![Linkedin Badge](https://img.shields.io/badge/-nickcapobianco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickacapobianco/)](https://www.linkedin.com/in/nickacapobianco/)
-[![Gmail Badge](https://img.shields.io/badge/-nickacapobianco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nickacapobiacno@gmail.com)](mailto:nickacapobianco@gmail.com) 
 
 📂 Check out my Portfolio: [Portfolio](https://nickcapobianco.github.io/)
 
