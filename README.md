@@ -10,7 +10,7 @@
 <br>
 🌲 Nature
 <br>
-🕹🎮 Video Games
+🎮 Video Games
 <br>
 🎸 Music
 <br>
