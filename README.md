@@ -28,7 +28,7 @@
 <br>
 <br>
 
-### ::bar_chart:: Github Stats
+### 📊 Github Stats
 <p>
 	<a href="https://gitstats.me/nickcapobianco" target="_blank">
 		<img src="https://github-readme-stats.vercel.app/api?username=nickcapobianco&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
