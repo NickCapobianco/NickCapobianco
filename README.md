@@ -1,4 +1,4 @@
-[![Triangular Trippy GIF](https://github.com/NickCapobianco/NickCapobianco/blob/main/Resources/trippy_gif.gif)](https://www.youtube.com/watch?v=ztVV54sPOns) 
+[![Triangular Trippy GIF](https://github.com/NickCapobianco/NickCapobianco/blob/main/Resources/trippy_gif.gif)](https://youtu.be/ztVV54sPOns) 
 
 ### 初めまして (nice to meet you), me llamo Nick Capobianco✌️
 [![Linkedin Badge](https://img.shields.io/badge/-nickcapobianco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickacapobianco/)](https://www.linkedin.com/in/nickacapobianco/)
@@ -11,6 +11,8 @@
 🌲 Nature
 <br>
 🎮 Video Games
+<br>
+🧗‍♀️ Rock Climbing
 <br>
 🎸 Music
 <br>
@@ -28,7 +30,6 @@
 <br>
 <br>
 
-### 📊 Github Stats
 <p>
 	<a href="https://gitstats.me/nickcapobianco" target="_blank">
 		<img src="https://github-readme-stats.vercel.app/api?username=nickcapobianco&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
