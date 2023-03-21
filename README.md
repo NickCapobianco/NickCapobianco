@@ -1,7 +1,6 @@
-[![Triangular Trippy GIF](https://github.com/NickCapobianco/NickCapobianco/blob/main/Resources/trippy_gif.gif)](https://youtu.be/ztVV54sPOns) 
+
 
 ### Hello, my name is Nick Capobianco✌️
-[![Linkedin Badge](https://img.shields.io/badge/-nickcapobianco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickacapobianco/)](https://www.linkedin.com/in/nickacapobianco/)
 
 💼 Check out my Portfolio Website: [Portfolio](https://nickcapobianco.github.io/)
 
