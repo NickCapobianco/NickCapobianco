@@ -33,4 +33,4 @@ I lead operations, finance, and technology at a specialty-food broker, and I dev
 
 #### Outside of work
 
-🏃 Spartan races · 💪 Working out · 🥾 Hiking · 🏖️ The beach · 🎸 Guitar · 🎮 Video games · ✈️ Travel · 🍳 Cooking
+💪 Working out · 🥾 Hiking · 🏖️ The beach · 🎸 Guitar · 🎮 Video games · ✈️ Travel · 🍳 Cooking
